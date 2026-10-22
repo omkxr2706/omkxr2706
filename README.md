@@ -16,8 +16,8 @@ A **Software Engineer & AI Developer** passionate about Computer Vision, Deep Le
 ## 🛠️ Technical Skills
 
 - **Languages:** Python, Java, JavaScript, C, C++, C#
-- **Frameworks & Libraries:** PyTorch, OpenCV, ReactJS, Spring Boot, FastAPI, LangChain, ASP.NET, Dash, Plotly
-- **AI & Deep Learning:** YOLOv8, CBAM Attention, ASFF Feature Fusion, NLP, LLMs, EasyOCR
+- **Frameworks & Libraries:** PyTorch, OpenCV, Scikit-learn, ReactJS, Spring Boot, FastAPI, LangChain, Streamlit, ASP.NET, Dash, Plotly
+- **AI & Deep Learning:** YOLOv8, CBAM Attention, ASFF Feature Fusion, MLP Regressor, NLP, LLMs
 - **Databases & Tools:** MySQL, REST APIs, Git, GitHub, VS Code, Playwright, Linux/Windows CLI
 - **3D & Hardware:** 3D Modeling/Printing (Ultimaker Cura), Arduino, IoT
 
@@ -35,9 +35,10 @@ A **Software Engineer & AI Developer** passionate about Computer Vision, Deep Le
 > * Developed an architecture-enhanced **YOLOv8** model augmented with **CBAM** (Attention Module) and **ASFF** (Feature Fusion) for real-time PPE compliance tracking (helmets, vests, masks).
 > * Designed an **IoU-based tracking algorithm** to match PPE with individual workers and output SAFE/UNSAFE status via a custom Tkinter GUI.
 
-### 🚗 License Plate Detector and Compressor
-> **Python, EasyOCR, DCT/IDCT, RLE**
-> * Built an end-to-end computer vision pipeline detecting license plates using EasyOCR and compressing images via DCT/RLE algorithms to save storage while preserving OCR accuracy.
+### 📅 [Staff-Scheduler-ML](https://github.com/omkxr2706/Staff-Scheduler-ML.git)
+> **Python, Machine Learning, Scikit-learn, Streamlit**
+> * Developed an ML-driven staff scheduling system to analyze restaurant traffic, workload metrics, and employee scheduling variables.
+> * Trained and integrated an **MLP Regressor** model and feature scaling pipeline to accurately forecast employee satisfaction and optimize part-time shift allocation.
 
 ### 🏨 [Hotel-Management-System](https://github.com/omkxr2706/Hotel-Management-System)
 > **Java, MySQL, OOP**
@@ -51,8 +52,8 @@ A **Software Engineer & AI Developer** passionate about Computer Vision, Deep Le
 
 ## 💼 Work Experience
 
-* **Software Engineer Intern (LLM & SDE)** @ *BrainChain Pvt. Ltd.* *(Jul 2024 – Jul 2026)*
-* **Data Science Intern** @ *FEV India Pvt. Ltd.* *(Jun 2025 – Sep 2025)*
+- **Software Engineer Intern (LLM & SDE)** @ *BrainChain Pvt. Ltd.* *(Jul 2024 – Jul 2026)*[cite: 5]
+- **Data Science Intern** @ *FEV India Pvt. Ltd.* *(Jun 2025 – Sep 2025)*[cite: 5]
 
 ---
 
