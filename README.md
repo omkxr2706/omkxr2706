@@ -25,23 +25,23 @@ A **Software Engineer & AI Developer** passionate about Computer Vision, Deep Le
 
 ## 🚀 Featured Projects
 
-### 🪖 [Auto-Work-Site-safety-Monitoring](https://github.com/omkxr2706/Auto-Work-Site-safety-Monitoring)
-> **Python, PyTorch, OpenCV, Tkinter**
-> * Developed an architecture-enhanced **YOLOv8** model augmented with **CBAM** (Attention Module) and **ASFF** (Feature Fusion) for real-time PPE compliance tracking (helmets, vests, masks).
-> * Designed an **IoU-based tracking algorithm** to match PPE with individual workers and output SAFE/UNSAFE status via a custom Tkinter GUI.
-
 ### 📚 [GenAI-Vocabulary-Tutor](https://github.com/omkxr2706/GenAI-Vocabulary-Tutor)
 > **ReactJS, Spring Boot, FastAPI, LangChain, DistilGPT-2**
 > * An AI-powered GRE vocabulary learning platform featuring a fine-tuned DistilGPT-2 model orchestrated via LangChain.
 > * Built with a responsive ReactJS frontend, Spring Boot & FastAPI backend microservices, and a Chrome Extension integration.
 
-### 🏨 [Hotel-Management-System](https://github.com/omkxr2706/Hotel-Management-System)
-> **Java, MySQL, OOP**
-> * A robust backend administration tool for managing hotel operations, room categories, customer records, inventory tracking, and automated invoice generation.
+### 🪖 [Auto-Work-Site-safety-Monitoring](https://github.com/omkxr2706/Auto-Work-Site-safety-Monitoring)
+> **Python, PyTorch, OpenCV, Tkinter**
+> * Developed an architecture-enhanced **YOLOv8** model augmented with **CBAM** (Attention Module) and **ASFF** (Feature Fusion) for real-time PPE compliance tracking (helmets, vests, masks).
+> * Designed an **IoU-based tracking algorithm** to match PPE with individual workers and output SAFE/UNSAFE status via a custom Tkinter GUI.
 
 ### 🚗 License Plate Detector and Compressor
 > **Python, EasyOCR, DCT/IDCT, RLE**
 > * Built an end-to-end computer vision pipeline detecting license plates using EasyOCR and compressing images via DCT/RLE algorithms to save storage while preserving OCR accuracy.
+
+### 🏨 [Hotel-Management-System](https://github.com/omkxr2706/Hotel-Management-System)
+> **Java, MySQL, OOP**
+> * A robust backend administration tool for managing hotel operations, room categories, customer records, inventory tracking, and automated invoice generation.
 
 ### 💤 Anti-Sleep Alarm for Driver Safety
 > **Arduino, IR Sensors, IoT**
