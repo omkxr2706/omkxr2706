@@ -6,12 +6,11 @@ A **Software Engineer & AI Developer** passionate about Computer Vision, Deep Le
 
 ## 🌐 Let's Connect
 
-- **Portfolio:** (https://www.linkedin.com/in/omkar-vaidya-ab6672259)
+- **Portfolio:** [Portfolio](https://portfolio-flax-mu-27.vercel.app)
 - **LinkedIn:** [Omkar Vaidya](https://www.linkedin.com/in/omkar-vaidya-ab6672259)
 - **Email:** [omkar27061@gmail.com](mailto:omkar27061@gmail.com)
 - **Phone:** +91 7666590494
 - **Location:** Pune, India
-
 
 ---
 
